@@ -1,0 +1,13 @@
+# build outputs
+*.exe
+*.dll
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+Debug/
+Release/
+x64/
